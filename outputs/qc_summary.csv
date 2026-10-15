@@ -1,0 +1,3 @@
+Estacao;Latitude;Longitude;Latitude_cabecalho;Longitude_cabecalho;N_bruto;N_mascara_diurna;N_limites_fisicos;N_eventos_raros;N_Kt_acima_1;N_Kt_carimbo_acima_1;N_final;Kt_medio;CV
+Cercadinho;-19,98;-43,95861;-19,97999999;-43,95861111;26271;12047;12047;12047;0;475;12047;0,5241861497710607;0,4015499828819426
+Ponta Pora;-22,5525;-55,7164;-22,5525;-55,71638888;26217;12254;12254;12254;0;621;12254;0,47689025397104945;0,45443248201025244

@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Hourly Solar Irradiance Forecasting Pipeline"
+version: 2.0.0
+date-released: 2026-10-14
+url: "https://github.com/thiagoferrobr/prev"
+license: MIT
+authors:
+  - family-names: "Ferro de Oliveira"
+    given-names: "Thiago"
+  - family-names: "Aquino"
+    given-names: "André Luiz Lins de"
+  - family-names: "Queiroz"
+    given-names: "Fabiane da Silva"
+references:
+  - type: thesis
+    thesis-type: "Master's thesis"
+    title: "Previsão horária de irradiância global horizontal por combinação heterogênea de modelos com dimensionamento informacional da janela autorregressiva"
+    authors:
+      - family-names: "Ferro de Oliveira"
+        given-names: "Thiago"
+    institution:
+      name: "Universidade Federal de Alagoas, Programa de Pós-Graduação em Energias Renováveis"
+    year: 2026

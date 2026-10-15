@@ -1,0 +1,23 @@
+Estacao;Lag;Multiplo_AMI;Rotulos
+Cercadinho;1;;exploratoria
+Cercadinho;2;;PACF
+Cercadinho;6;;exploratoria
+Cercadinho;7;1,0;AMI x1
+Cercadinho;11;;referencia diurna
+Cercadinho;12;;exploratoria
+Cercadinho;14;2,0;AMI x2
+Cercadinho;18;;exploratoria
+Cercadinho;21;3,0;AMI x3
+Cercadinho;25;;exploratoria
+Cercadinho;64;;ACF
+Ponta Pora;1;;PACF
+Ponta Pora;2;;exploratoria
+Ponta Pora;6;1,0;AMI x1
+Ponta Pora;7;;exploratoria
+Ponta Pora;11;;referencia diurna
+Ponta Pora;12;2,0;AMI x2
+Ponta Pora;14;;exploratoria
+Ponta Pora;18;3,0;AMI x3
+Ponta Pora;21;;exploratoria
+Ponta Pora;25;;ACF
+Ponta Pora;64;;exploratoria

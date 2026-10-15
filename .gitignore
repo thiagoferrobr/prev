@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pkl
+cells/
+dados_inmet/
+prev_v9/
+prev_v9_work/
+prev_v9_teste/
+prev_v9_teste_work/
